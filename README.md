@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manonlrcy
 - 👀 I’m interested in Earth Sciences, particularly Geo-bio-atmosphere interactions
 - 🌱 Geologist by education, now deeply exploring macroecology and evolution
-- 📫 How to reach me: manon.lorcery@univ-grenoble-alpes.fr
+- 📫 How to reach me: lorcery@ecomail.eco
 - ⚡ Fun fact: Programming wise, I'm a pure product of stackoverflow and stackexchange :) 
 
 <!---
